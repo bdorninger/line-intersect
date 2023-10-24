@@ -13,7 +13,7 @@ interface DrawOptions {
   color?: string;
 }
 
-interface Point {
+interface Point { 
   x: number;
   y: number;
 }
